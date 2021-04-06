@@ -1,2 +1,2 @@
 # PopularityboardAE
-This is an analysis of the most popular products on Shopping website and explore their prices
+This is an analysis tool of the most popular products on a Shopping website Aerie (publicly available dataset).
